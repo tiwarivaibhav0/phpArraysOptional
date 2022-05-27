@@ -1,0 +1,22 @@
+th{
+    border: 2px solid gray;
+
+    height: 50px;;
+    
+}
+td{
+    border-right:2px solid gray ;
+}
+
+table{
+    border: 2px solid gray;
+
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+td:nth-child(1) {
+    width: 200px;
+    text-align: left;
+  }
+ 
